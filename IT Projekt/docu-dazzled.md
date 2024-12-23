@@ -143,7 +143,7 @@
 ### Probleme und Lösungen:
 
 - Motor defekt - ausgetauscht
-- Auto fährt nicht rückwärts und schafft keine geschmeidige Kurve - Code angepasst und erneut getestet
+- Auto schafft keine geschmeidige Kurve - Code angepasst und erneut getestet
 - Auto ist vollkommen funktionstüchtig
 
 ### Code:
